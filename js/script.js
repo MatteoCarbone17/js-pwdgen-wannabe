@@ -29,6 +29,6 @@ completeAge = year - ageUser ;
 console.log (completeAge);
 
 
-document.getElementById('codicemoltosegreto') .innerHTML =`il tuo codice segreto per accedere a dati ancor piu segreti del codice \' segreto \' è : ${completeAge}${nomeCompleto}22${colorePreferitoUtente}` ;
+document.getElementById('codicemoltosegreto') .innerHTML =`il tuo SUPER codice segreto per accedere a dati ancor piu segreti del codice \' segreto \' è : ${completeAge}${nomeCompleto}22${colorePreferitoUtente}` ;
 
 
