@@ -13,3 +13,4 @@ console.log (colorePreferitoUtente);
 
 
 document.getElementById('codicesegreto') .innerHTML ="il tuo codice segreto per accedere a dati ancor piu segreti del codice \' segreto \' è " + nomeCompleto+colorePreferitoUtente+"22" ;
+
