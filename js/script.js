@@ -12,5 +12,5 @@ let colorePreferitoUtente = prompt('Qual è il tuo colore preferito ?');
 console.log (colorePreferitoUtente);
 
 
-document.getElementById('codicesegreto') .innerHTML ="il tuo codice segreto per accedere a dati ancor piu segreti del codice \' segreto \' è " + nomeCompleto+colorePreferitoUtente+"22" ;
+document.getElementById('codicesegreto') .innerHTML =`il tuo codice segreto per accedere a dati ancor piu segreti del codice \' segreto \' è : ${nomeCompleto}${colorePreferitoUtente}22` ;
 
